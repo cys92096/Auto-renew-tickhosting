@@ -1,4 +1,4 @@
-Server ID: 0d1a85a5
-Renew status: Failed
-Last renewal time: 2024-12-29 01:40:57
-Error: Time not extended
+Server ID: d0c4aff7
+Renew status: Success
+Last renewal time: 2025-01-01 01:26:02
+New expiration time: 2025-01-12 04:42:06
