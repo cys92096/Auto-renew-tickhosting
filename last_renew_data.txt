@@ -1,4 +1,4 @@
 Server ID: d0c4aff7
-Renew status: Success
-Last renewal time: 2025-01-01 01:26:02
-New expiration time: 2025-01-12 04:42:06
+Renew status: Failed
+Last renewal time: 2025-01-05 01:25:37
+Error: Time not extended
